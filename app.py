@@ -5,7 +5,7 @@ from PIL import Image
 import pytesseract
 import fitz  # PyMuPDF
 import openai
-from paymanai import Paymanai
+from paymanai import Paymanai  # this works if paymanai.py is in the same directory
 import json
 
 # Configure the app
