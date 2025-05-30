@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Initialize API keys
-openai_api_key = os.environ.get("OPENAI_API_KEY", "anF0RWd-exsk70fpdSFKJ2fbFUYeGdISoPJVVMcAZx-T_5gIp_zgXVWmAis1X2N0")
+openai_api_key = os.environ.get("OPENAI_API_KEY", "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")
 payman_api_secret = os.environ.get("PAYMAN_API_SECRET", "")
 
 
