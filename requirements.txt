@@ -1,3 +1,4 @@
+paymanai
 streamlit
 Pillow
 pytesseract
