@@ -1,6 +1,6 @@
 streamlit
-Pillow
-pytesseract
-PyMuPDF
-openai
-
+rich
+markdown-it-py
+pygments
+mdurl
+python-dotenv
