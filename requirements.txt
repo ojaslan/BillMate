@@ -1,3 +1,6 @@
-paymanai
-python-dotenv
 streamlit
+python-dotenv
+paymanai
+requests
+pandas
+numpy
