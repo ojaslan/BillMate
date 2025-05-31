@@ -1,7 +1,3 @@
-streamlit
-rich
-markdown-it-py
-pygments
-mdurl
-python-dotenv
 paymanai
+python-dotenv
+streamlit
