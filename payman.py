@@ -1,1 +1,0 @@
-from paymanai import Paymanai  
