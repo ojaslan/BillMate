@@ -4,3 +4,4 @@ markdown-it-py
 pygments
 mdurl
 python-dotenv
+paymanai
