@@ -11,6 +11,7 @@ import pytesseract
 import fitz  # PyMuPDF
 import openai
 import json
+from paymanai import payman
 
 # Configure the app
 st.set_page_config(
